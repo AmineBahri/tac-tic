@@ -20,10 +20,7 @@ class ArticleController extends Controller
      */
     public function index()
     {
-        /*$articles = Article::all();
-        return view('home')->with([
-            'articles' => Article::paginate(5)
-        ]);*/
+        //
     }
 
     /**

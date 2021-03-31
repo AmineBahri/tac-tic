@@ -17,7 +17,8 @@
                             <th>Id</th>
                             <th>Title</th>
                             <th>Description</th>
-                            <th>Action</th>
+                            <th>Price</th>
+                            <th >Actions</th>
                          </tr>
                         </thead>
                         <tbody>
